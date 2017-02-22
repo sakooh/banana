@@ -1,0 +1,80 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: 'db_helvethaica_x57_cond';
+	color: #434343;
+	background-color: whitesmoke;
+
+}
+h1{
+	font-family: 'lunaregular';
+	font-size: 10px;
+	color: #434343;
+	text-align: center;
+}
+h2{
+	font-size: 35px;
+	text-align: center;
+	margin: 15px 0;
+}
+h4{
+	height: 9px;
+}
+p{
+	font-size: 85px;
+	text-align: center;
+	margin: 15px 0;
+	height: 80px;
+}
+li{
+	display: inline;
+	margin-right: 48px;
+}
+a{
+	color: #434343;
+	opacity: 1;
+}
+.container{
+	width: 100%;
+	max-width: 375px;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+.content{
+	background-color: whitesmoke;
+	position: absolute;
+    top: 142px;
+    width: 100%;
+    padding-bottom: 61px;
+}
+.menu_bar{
+	width: 100%;
+	background-color: white;
+	height: 51px;
+	border-top: 1px solid #5a5a5a;
+	opacity: 0.9;
+	position: fixed;
+    bottom: 0px;
+}
+.m2{
+	margin-left: 80px;
+}
+.left{
+	float: left;
+	width: 50%;
+	height: 250px;
+}
+.right{
+	float: left;
+	width: 50%;
+	height: 250px;
+}
+.pic{
+	float: left;
+}
+.pictext{
+	width: 100%;
+	float: left;
+	text-align: center;
+}
